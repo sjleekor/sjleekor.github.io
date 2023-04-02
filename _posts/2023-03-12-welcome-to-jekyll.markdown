@@ -37,6 +37,12 @@ bundle exec jekyll serve
 * 이제 커밋하고 리모트에 푸쉬합니다. 
 * 레포 셋팅 화면, Pages 메뉴에서 Source, Branch 를 설정하고 save 를 누르면 Your site is live at .... 상자가 나오며 접근할 수 있게 됩니다. 이 [블로그][deploy-pages] 설명이 되어 있습니다.
 
+```go
+type A struct {
+	a string
+}
+```
+
 [jekyll-docs]: https://jekyllrb-ko.github.io/
 [jekyll-docs-install]: https://jekyllrb-ko.github.io/docs/
 [my-repo]: https://github.com/sjleekor/sjleekor.github.io
