@@ -2,10 +2,10 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2023-03-12 21:35:47 +0900
-categories: jekyll update
+categories: blogging
 ---
 
-jekyll 을 사용하면, markdown 으로 포스트를 _posts 밑에 작성해서 push 만 해놓으면 github 가 자동으
+jekyll 을 사용하면, markdown 으로 포스트를 _posts 밑에 작성해서 push 만 해놓으면 github 가 자동으로 생성해줍니다.
 
 처음 셋팅은 [github pages jekyell 적용 공식문서][github-pages]부터 보기 시작하면 되는데 아쉽게도 한글 문서가 없습니다. 정확한 내용은 공식문서를 확인해주세요.
 
@@ -32,7 +32,7 @@ bundle install
 bundle add webrick
 ```
 
-* local 에서 실행해봅니다.
+* local 에서 실행해봅니다ㅓ.
 ```bash
 bundle exec jekyll serve
 ```
