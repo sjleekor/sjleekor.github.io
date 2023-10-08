@@ -11,3 +11,18 @@ python 공부도 할겸 python 으로 환경을 구성해보려고 합니다. �
 
 IntelliJ 가 익숙해서 새 파이썬 프로젝트를 만드려고 보니 pipenv 경로를 지정하게 되어있습니다.
 ![IntelliJ Create project](/assets/img/2023-10-08-python-환경구성-000.png)
+
+mac 에 brew 로 파이썬을 그냥 설치해놨는데 3.11 입니다. pipenv 는 3.11 버전에 대해 설치되어 있지 않았습니다. 
+pipenv 를 설치해야 할 것 같습니다. 
+```bash
+pip3 install --user pipenv
+# /Users/whi/Library/Python/3.11/bin/pipenv 이런 경로에 설치됩니다.
+```
+
+pipenv 경로를 지정하고 프로젝트를 만들고 나면, 이제 필요한 pandas 라든지 selinum 이라든지 패키지를 설치해야 하는데 어떻게 하는지 또 모르겠습니다.
+찾아보니 [installing-uninstalling-and-upgrading-packages](https://www.jetbrains.com/help/idea/installing-uninstalling-and-upgrading-packages.html) 에 관련 내용이 적혀있습니다. 
+
+Tools > Manager Python Packages 메뉴를 사용하면 라이브러리를 설치할 수 있습니다.
+![Installing python packages](/assets/img/2023-10-08-python-환경구성-001.png)
+
+
