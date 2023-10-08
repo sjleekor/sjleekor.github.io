@@ -10,4 +10,4 @@ categories: python
 python 공부도 할겸 python 으로 환경을 구성해보려고 합니다. 파이썬은 자주 사용하지 않아서 필요할 때마다 매번 환경을 셋팅하게 되는데, 어떤 방법이 좋은 방법인지 잘 모르겠습니다.
 
 IntelliJ 가 익숙해서 새 파이썬 프로젝트를 만드려고 보니 pipenv 경로를 지정하게 되어있습니다.
-![Foo](../_site/assets/img/2023-10-08-python-환경구성-000.png)
+![IntelliJ Create project](/assets/img/2023-10-08-python-환경구성-000.png)
