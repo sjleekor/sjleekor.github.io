@@ -30,7 +30,9 @@ Installed scala kernel under /Users/whishaw/Library/Jupyter/kernels/scala
 
 * 설치하고 나면 vscode, jupyter notebook 설정에서, kernel 에 scala 가 추가된 것을 확인할 수 있음.
 ![scala kernel 선택 01](/assets/img/2024-02-18-01.png)
+
 ![scala kernel 선택 02](/assets/img/2024-02-18-02.png)
+
 ![scala kernel 선택 03](/assets/img/2024-02-18-03.png)
 
 
