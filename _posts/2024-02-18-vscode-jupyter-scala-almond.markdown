@@ -37,3 +37,5 @@ Installed scala kernel under /Users/whishaw/Library/Jupyter/kernels/scala
   ![scala kernel 선택 03](/assets/img/2024-02-18-03.png)
 
 
+### Spark 사용해보기
+[Almond 문서](https://almond.sh/docs/usage-spark)를 따라서 진행
